@@ -2,7 +2,10 @@
 The dataset of 'Real-MFF A large realistic multi-focus image dataset with ground truth'
 
 The dataset can be downloaded in GoogleDrive:
-or BaiduYun: 
+or BaiduYun: https://pan.baidu.com/s/13WfJ6kxEuaVvOla-OOsx0A 
+Code：q3zz 
+
+
 
 If you find the dataset helpful in your resarch or work, please cite our paper:
 
