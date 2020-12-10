@@ -1,5 +1,5 @@
 # Real-MFF dataset
-The dataset of 'Real-MFF A large realistic multi-focus image dataset with ground truth'
+The dataset of out Pattern Recognition Letter paper 'Real-MFF A large realistic multi-focus image dataset with ground truth'.
 
 The dataset can be downloaded in GoogleDrive:
 or BaiduYun: https://pan.baidu.com/s/13WfJ6kxEuaVvOla-OOsx0A 
